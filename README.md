@@ -1,4 +1,8 @@
-# Mixture of Prompt Experts for Generalizable and Interpretable Question Answering
+# Getting <u>MoRE</u> out of <u>M</u>ixture <u>o</u>f Language Model <u>R</u>easoning <u>E</u>xperts
+
+<p align="center">
+    <img src="TeaserFigure.png" width="50%" height="auto"/>
+</p>
 
 ## Data
 
