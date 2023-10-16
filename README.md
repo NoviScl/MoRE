@@ -1,4 +1,6 @@
-# Getting <u>MoRE</u> out of <u>M</u>ixture <u>o</u>f Language Model <u>R</u>easoning <u>E</u>xperts
+# Getting <ins>MoRE</ins> out of <ins>M</ins>ixture <ins>o</ins>f Language Model <ins>R</ins>easoning <ins>E</ins>xperts (EMNLP 2023 Findings)
+
+This repository contains the code and data for running the experiments in our paper. Please see below for more detailed instructions for running the code. 
 
 <p align="center">
     <img src="TeaserFigure.png" width="50%" height="auto"/>
@@ -26,11 +28,12 @@ For the selective QA evaluation, run `python3 abstention.py`. You can use either
 ## Citation
 
 ```bibtex
-@article{si2023mope,
-   title={Mixture of Prompt Experts for Generalizable and Interpretable Question Answering},
-   author={Si, Chenglei and Shi, Weijia and Zhao, Chen and Zettlemoyer, Luke and Boyd-Graber, Jordan},
-   journal={arXiv preprint},
-   year={2023}
+@article{Si:Shi:Zhao:Zettlemoyer:Boyd-Graber-2023,
+	Title = {Getting \underline{MoRE} out of \underline{M}ixture \underline{o}f Language Model \underline{R}easoning \underline{E}xperts},
+	Author = {Chenglei Si and Weijia Shi and Chen Zhao and Luke Zettlemoyer and Jordan Lee Boyd-Graber},
+	Journal = {Findings of Empirical Methods in Natural Language Processing},
+	Year = {2023},
+	Location = {Singapore},
 }
 ```
 
